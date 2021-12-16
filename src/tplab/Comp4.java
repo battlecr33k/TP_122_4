@@ -11,4 +11,5 @@ package tplab;
  */
 public class Comp4 {
     // V2
+    System.out.println("19565 connected!");
 }
